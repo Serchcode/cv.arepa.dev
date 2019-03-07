@@ -17,7 +17,7 @@ const GlobalStyle = createGlobalStyle`
     font-family: 'Lato', sans-serif;
     margin: 0;
     padding: 0;
-    background: #f5f5f5;
+    background: black;
   }
 `;
 

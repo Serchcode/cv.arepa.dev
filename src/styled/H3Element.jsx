@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 const Styledh3 = styled.h3`
-  color: #212121;
+  color: white;
   font-weight: 400;
   margin: .5em 0;
 `;
